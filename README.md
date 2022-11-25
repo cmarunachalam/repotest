@@ -10,3 +10,4 @@ make trigger successfully
 dev02 updated
 ===========
 new changes made at 10.38 AM
+after installing sinatra
