@@ -7,10 +7,10 @@ class Octocat
 
   # print
   def display
-    breed = @breeds.join("-")
+    breed = @breeds.join('-')
     puts "I am of #{breed} breed, and my name is #{@name}."
   end
 end
 # function call
-m = Octocat.new("Mona", "cat", "octopus")
+m = Octocat.new('Mona', 'cat', 'octopus')
 m.display
