@@ -10,6 +10,6 @@ class Octocat
     puts "I am of #{breed} breed, and my name is #{@name}."
   end
 end
-# call function
+# call function to check
 m = Octocat.new("Mona", "cat", "octopus")
 m.display
