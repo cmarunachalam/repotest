@@ -1,5 +1,4 @@
 class Octocat
-  #init
   def initialize(name, *breeds)
     # Instance variables
     @name = name
