@@ -18,3 +18,4 @@ after updating checks
 ===========================
 Test new values
 ===========================
+update content ${now}
