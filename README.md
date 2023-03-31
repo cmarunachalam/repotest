@@ -26,4 +26,4 @@ pull file
 ============
 delete duplicate values
 =====
-pull check
+pull checked again
