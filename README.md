@@ -27,3 +27,5 @@ pull file
 delete
 =======
 commit
+-----
+#push code
