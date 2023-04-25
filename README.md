@@ -1,4 +1,4 @@
 # repotest
 ----------
 
-This is a sample repository to check plugins.
+This is a sample repository to test the plugins.
