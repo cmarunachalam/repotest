@@ -24,4 +24,4 @@ commit file
 =================
 pull file
 ============
-delete
+# delete
