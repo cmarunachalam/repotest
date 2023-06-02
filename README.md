@@ -1,6 +1,3 @@
-This is a sample repository to test plugin webhook.
-Do this commit
-=======
 Test Repository for github
 Test Triggers
 ===========================
