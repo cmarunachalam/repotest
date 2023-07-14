@@ -12,5 +12,5 @@ class Octocat
 end
 
 # function call
-m = Octocat.new('Mona', 'cat', 'octopus')
+m = Octocat.new('Mona', 'cats', 'octopus')
 m.display
