@@ -21,5 +21,3 @@ update content
 commit file
 =================
 pull file
-============
-delete
